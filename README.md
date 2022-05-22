@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514098/563/ninja.gif?1643514098" width="30"/> Hello! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514098/563/ninja.gif?1643514098" width="30"/> Hello! Im Ian.</h1>
 <p>I'm a Fullstack developer... An actual web ninja<br>
 Looking to be part of the next big tech..</p>
 
