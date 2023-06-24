@@ -10,4 +10,4 @@ Looking to be part of the next big tech..</p>
 <h4>Github Status</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=ianaleck&show_icons=true&include_all_commits=true&theme=dark" alt="Ian's's Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianaleck&langs_count=10&layout=compact&theme=dark)](https://github.com/Olanetsoft)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianaleck&langs_count=10&layout=compact&theme=dark)](https://github.com/ianaleck)
